@@ -3,19 +3,19 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/menu_seccion_1"
-            android:icon="@drawable/ic_user"
+            android:icon="@drawable/ic_agenda"
             android:title="Año"/>
         <item
             android:id="@+id/menu_seccion_2"
-            android:icon="@drawable/ic_user"
+            android:icon="@drawable/ic_mes"
             android:title="Mes"/>
         <item
             android:id="@+id/menu_seccion_3"
-            android:icon="@drawable/ic_user"
+            android:icon="@drawable/ic_semana"
             android:title="Semana"/>
         <item
             android:id="@+id/menu_seccion_4"
-            android:icon="@drawable/ic_user"
+            android:icon="@drawable/ic_dia"
             android:title="Dia"/>
         <item
             android:id="@+id/menu_seccion_5"
