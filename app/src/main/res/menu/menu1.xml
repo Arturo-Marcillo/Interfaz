@@ -19,7 +19,7 @@
             android:title="Dia"/>
         <item
             android:id="@+id/menu_seccion_5"
-            android:icon="@drawable/ic_user"
+            android:icon="@drawable/ic_alarm"
             android:title="Reminder"/>
     </group>
 
@@ -29,25 +29,25 @@
         <menu>
             <item
                 android:id="@+id/menu_opcion_1"
-                android:icon="@drawable/ic_user"
+                android:icon="@drawable/ic_telf"
                 android:title="Mi telefono"/>
             <item
                 android:id="@+id/menu_opcion_2"
-                android:icon="@drawable/ic_user"
+                android:icon="@drawable/ic_sansu"
                 android:title="Samsung account"/>
             <item
                 android:id="@+id/menu_opcion_3"
-                android:icon="@drawable/ic_user"
+                android:icon="@drawable/ic_goo"
                 android:title="Google"/>
             <item
                 android:id="@+id/menu_opcion_4"
-                android:icon="@drawable/ic_user"
+                android:icon="@drawable/ic_goo"
                 android:title="Google"
                 android:titleCondensed="Google"/>
 
             <item
                 android:id="@+id/menu_opcion_5"
-                android:icon="@drawable/ic_user"
+                android:icon="@drawable/ic_hll"
                 android:title="Eventos de aplicaciones"/>
 
         </menu>
@@ -58,11 +58,11 @@
         <menu>
             <item
                 android:id="@+id/menu_opcion_6"
-                android:icon="@drawable/ic_user"
+                android:icon="@drawable/ic_pape"
                 android:title="Papelera"/>
             <item
                 android:id="@+id/menu_opcion_7"
-                android:icon="@drawable/ic_user"
+                android:icon="@drawable/ic_sincro"
                 android:title="Sicronizar ahora"/>
 
         </menu>
